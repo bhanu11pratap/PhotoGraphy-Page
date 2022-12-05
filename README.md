@@ -2,5 +2,5 @@
 See some stunning pictures
 
 # Tech Stack
-Client: HTML , CSS
-Server: Github
+ HTML , CSS with responsive UI
+
